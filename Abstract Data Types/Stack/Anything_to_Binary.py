@@ -1,4 +1,3 @@
-
 def any_to_bin(number,base):
     digits = "0123456789ABCDEF"
 	rem = Stack()
